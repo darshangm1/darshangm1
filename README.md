@@ -9,27 +9,27 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year BCA Student 
-- 🧠 Built an **AI Voice-Based Task Manager (Python)**
-- 💻 Developed a **Full Stack Event Management System (Flask + MySQL)**
-- 🌱 Currently strengthening **DSA & Backend Architecture**
-- 🎯 Focused on writing clean, production-ready code
+- 🎓 Final Year BCA Student  
+- 🧠 Built an **AI Voice-Based Task Manager (Python)**  
+- 💻 Developed a **Full Stack Event Management System (Flask + MySQL)**  
+- 🌱 Currently strengthening **DSA & Backend Architecture**  
+- 🎯 Focused on writing clean, production-ready code  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎙 AI Voice Task Manager
-- Voice recognition using Python
-- Text-to-speech integration
-- Task automation
-- File-based task storage system
+- Voice recognition using Python  
+- Text-to-speech integration  
+- Task automation  
+- File-based task storage system  
 
 ### 🎉 Event Management System
-- Flask backend
-- MySQL database integration
-- Authentication system (Login/Signup)
-- Booking & admin management system
+- Flask backend  
+- MySQL database integration  
+- Authentication system (Login/Signup)  
+- Booking & admin management system  
 
 ---
 
@@ -61,15 +61,20 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github.com/darshangm1/darshangm1/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img src="https://raw.githubusercontent.com/darshangm1/darshangm1/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/darshan-gm12072005L](https://www.linkedin.com/in/darshan-gm12072005L)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:darshangm1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/darshan-gm12072005L" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:darshangm1111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
