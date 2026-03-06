@@ -61,9 +61,8 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darshangm1/darshangm1/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/darshangm1/darshangm1/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
