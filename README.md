@@ -61,7 +61,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darshangm1/darshangm1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/darshangm1/darshangm1/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
