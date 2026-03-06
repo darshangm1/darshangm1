@@ -1,11 +1,13 @@
-<!-- ====================== HEADER ====================== -->
-
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Darshan G M</h1>
 
-<h3 align="center">Backend Developer | Python • Flask • Java</h3>
+<p align="center">
+  <b>Backend Developer | Python • Java • Flask</b><br>
+  Passionate about building scalable systems and clean architecture.
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Full+Stack+Project+Developer;Passionate+About+Clean+Architecture;Focused+on+Production-Ready+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Flask+%7C+MySQL;Problem+Solver;Clean+Code+Advocate" />
 </p>
 
 ---
@@ -15,24 +17,31 @@
 - 🎓 Final Year BCA Student  
 - 🧠 Built an **AI Voice-Based Task Manager using Python**
 - 💻 Developed a **Full Stack Event Management System (Flask + MySQL)**
-- 📚 Currently strengthening **Data Structures & Backend Architecture**
-- 🎯 Goal: Become a professional Backend Engineer
+- 📚 Currently strengthening **DSA & Backend Architecture**
+- 🎯 Focused on writing clean, production-ready code  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎙 AI Voice Task Manager
-- Speech Recognition Integration  
-- Text-to-Speech Automation  
-- Task Management via Voice Commands  
-- Persistent File Storage System  
+> Python-based intelligent task manager using voice recognition
+
+- Speech-to-text integration  
+- Text-to-speech response system  
+- Task automation  
+- Local file storage system  
+
+---
 
 ### 🎉 Event Management System
-- Flask-based Backend  
-- MySQL Database Integration  
+> Full Stack Web Application using Flask
+
 - Secure Authentication (Login/Signup)  
-- Booking & Admin Management Dashboard  
+- MySQL Database Integration  
+- Event Booking System  
+- Admin Dashboard  
+- Clean UI with HTML, CSS & JS  
 
 ---
 
@@ -43,8 +52,6 @@
 </p>
 
 ---
-
-
 
 ## 📈 Contribution Activity
 
@@ -57,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/darshangm1/darshangm1/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/darshangm1/darshangm1/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </p>
 
 ---
